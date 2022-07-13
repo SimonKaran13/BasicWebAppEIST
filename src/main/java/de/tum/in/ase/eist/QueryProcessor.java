@@ -1,4 +1,4 @@
-package com.develogical;
+package de.tum.in.ase.eist;
 
 import javax.print.DocFlavor;
 import java.net.URL;
