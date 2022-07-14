@@ -1,8 +1,8 @@
 package de.tum.in.ase.eist;
 
-import javax.print.DocFlavor;
-import java.net.URL;
+import org.springframework.stereotype.Service;
 
+@Service
 public class QueryProcessor {
 
     public String process(String query) {
